@@ -1,2 +1,2 @@
 # DE-101
-Getting Started with Analytics (Data) Engineering
+Repository for completed Data-Learn assignments of the Data Engineering course
